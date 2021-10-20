@@ -1,10 +1,13 @@
 # ideal-succotash
+
 Launch Page Tutorial
 
 ## Goals
+
 Learn the bare essentials of bootstrap
 
-##Tools used
+## Tools used
+
 html
 css
 bootstrap4
